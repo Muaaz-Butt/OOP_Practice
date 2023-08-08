@@ -1,0 +1,4 @@
+﻿  RationalClass.cpp
+E:\OOP Labs\OOP-Practice\RationalClass\RationalClass.cpp(159): warning C4172: returning address of local variable or temporary: temp
+E:\OOP Labs\OOP-Practice\RationalClass\RationalClass.cpp(140): warning C4172: returning address of local variable or temporary: temp
+  RationalClass.vcxproj -> E:\OOP Labs\OOP-Practice\RationalClass\x64\Debug\RationalClass.exe
